@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,SAAS,EAAE,cAAc",
+"sources": ["square.component.scss"],
+"names": [],
+"file": "square.component.css"
+}
